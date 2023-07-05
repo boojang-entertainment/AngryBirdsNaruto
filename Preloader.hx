@@ -1,9 +1,8 @@
 package;
 
 import flixel.system.FlxBasePreloader;
-stract Preloader(null) {
 
-}import openfl.display.Sprite;
+import openfl.display.Sprite;
 import flash.display.Bitmap;
 import flash.display.BitmapData;
 import flash.display.BlendMode;
