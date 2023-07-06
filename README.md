@@ -14,7 +14,7 @@ To test Angry Birds Naruto from source code:
 
     >We recommend Haxe version 4.x.x cuz it's needed by Nape
 
-2. Run these commands:
+2. Download the source code and run these commands:
 
 ```bat
    haxelib install hmm
