@@ -35,6 +35,11 @@
             "name":"nape",
             "type":"haxelib",
             "version":null
+        },
+        {
+            "name":"HxWebSockets",
+            "type":"haxelib",
+            "version":null
         }
     ]
 }
