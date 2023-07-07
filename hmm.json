@@ -30,6 +30,11 @@
             "name":"nape-haxe4",
             "type":"haxelib",
             "version":null
+        },
+        {
+            "name":"nape",
+            "type":"haxelib",
+            "version":null
         }
     ]
 }
