@@ -22,7 +22,7 @@ To test Angry Birds Naruto from source code:
    haxelib run flixel setup
 ```
 
- and run ```lime test <mac, linux, windows, cpp>``` command
+ and run ```lime test <mac, linux, windows>``` command
 
 ### From binary
 
